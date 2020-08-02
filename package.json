@@ -9,7 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "element-ui": "^2.13.2",
+    "file-saver": "^2.0.2",
+    "vue": "^2.6.11",
+    "xlsx": "^0.16.5",
+    "xlsx-style": "^0.8.13"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
@@ -18,6 +22,7 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
+    "script-loader": "^0.7.2",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
